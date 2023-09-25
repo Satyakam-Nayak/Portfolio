@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "satyakam",
+      "email": "satyakamnayak2002@gmail.com",
+      "enquiry": "Learn Skills",
+      "message": "Plzz help me for doing porject"
+    },
+    {
+      "name": "",
+      "email": "",
+      "enquiry": "",
+      "message": "",
+      "id": 2
+    },
+    {
+      "name": "iiocosdc",
+      "email": "clsdncs",
+      "enquiry": "projectc",
+      "message": "jcknwkclbs",
+      "id": 3
+    },
+    {
+      "name": "iiocosdc",
+      "email": "clsdncs",
+      "enquiry": "projectc",
+      "message": "jcknwkclbs",
+      "id": 4
+    }
+  ]
+}
